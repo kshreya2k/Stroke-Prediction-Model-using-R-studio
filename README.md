@@ -18,4 +18,3 @@ Category: Predictive Modelling
 Predictive Modelling
 Tools used
 Category: R
-R
